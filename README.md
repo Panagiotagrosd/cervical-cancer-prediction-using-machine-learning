@@ -1,1 +1,1 @@
-# cervical-cancer-prediction-using-machine-learning
+Cancer-Prediction-in-Early-stages
